@@ -1,0 +1,5 @@
+# Não versionar os arquivos desta pasta.
+*
+
+# Manter este arquivo de regras no repositório.
+!.gitignore
