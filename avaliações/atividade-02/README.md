@@ -1,0 +1,1 @@
+Evidenciar a execução do programa Produtor-Consumidor em Java anexo aos Recursos. Fazer print da execução do programa com o nome do aluno. Postar na pasta atividade-02 do seu GitHub. Copiar o link do repositório/atividade-02 no Google Classroom.
