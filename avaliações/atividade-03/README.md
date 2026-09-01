@@ -7,3 +7,5 @@ Observação:
 2) A especificação deverá ser entregue no formato Markdown;
 3) Cada componente da equipe deverá postar o documento no seu Github;
 4) A documentação será entrada para a criação de um código gerado a partir de um Harness (Claude Code, Open Code).
+
+Equipe: Marcelo Flávio e Sergio Henrique
