@@ -4,3 +4,7 @@ Disponivel em https://killercoda.com/playgrounds/scenario/ubuntu
 Evidenciar no seu GitHub os passos seguidos na execução da Atividade.
 .
 Postar no Google Classroom o link do Github com a pasta da atividade-06
+
+## Evidência da execução
+
+![Evidência da atividade no KillerCoda](evidencia-killercoda.png)
