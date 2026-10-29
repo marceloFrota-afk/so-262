@@ -1,0 +1,9 @@
+Aluno: Marcelo Flávio
+Teste: Teste 4 - Solicitação bloqueada por falta de recurso
+Recursos totais (E): [10,5,7]
+Recursos disponíveis (A): [3,3,2]
+Necessidades (Need): [[7,4,3],[1,2,2],[6,0,0],[0,1,1],[4,3,1]]
+Processo: P2
+Pedido: [4, 0, 0]
+Resultado: BLOQUEADA
+Motivo: Não há recursos disponíveis suficientes neste momento.

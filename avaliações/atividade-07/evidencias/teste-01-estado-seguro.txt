@@ -1,0 +1,7 @@
+Aluno: Marcelo Flávio
+Teste: Teste 1 - Estado inicial seguro
+Recursos totais (E): [10,5,7]
+Recursos disponíveis (A): [3,3,2]
+Necessidades (Need): [[7,4,3],[1,2,2],[6,0,0],[0,1,1],[4,3,1]]
+Estado seguro: SIM
+Sequência segura: P1 -> P3 -> P0 -> P2 -> P4

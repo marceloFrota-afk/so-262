@@ -1,0 +1,9 @@
+Aluno: Marcelo Flávio
+Teste: Teste 2 - Solicitação segura concedida
+Recursos totais (E): [10,5,7]
+Recursos disponíveis (A): [3,3,2]
+Necessidades (Need): [[7,4,3],[1,2,2],[6,0,0],[0,1,1],[4,3,1]]
+Processo: P1
+Pedido: [1, 0, 2]
+Resultado: CONCEDIDA
+Motivo: O estado resultante permanece seguro (P1 -> P3 -> P0 -> P2 -> P4).
